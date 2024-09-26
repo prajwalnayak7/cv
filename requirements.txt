@@ -1,0 +1,7 @@
+setuptools
+streamlit
+PyPDF2
+Pillow
+numpy
+torch
+transformers
