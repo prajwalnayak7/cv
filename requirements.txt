@@ -5,3 +5,6 @@ Pillow
 numpy
 torch
 transformers
+pandas
+plotly
+scikit-learn
